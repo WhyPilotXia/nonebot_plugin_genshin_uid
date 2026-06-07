@@ -1,0 +1,2 @@
+# nonebot_plugin_genshin_uid
+原神uid信息查询
