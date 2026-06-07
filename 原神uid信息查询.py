@@ -194,7 +194,7 @@ async def render_enka_page(uid: str) -> bytes:
         raise EnkaQueryError("UID 不能为空。")
 
     async with get_new_page(
-        viewport={"width": 1280, "height": 1600},
+        viewport={"width": 2160, "height": 1800},
         device_scale_factor=1,
     ) as page:
         await page.goto(f"https://enka.network/u/{uid}/", wait_until="networkidle", timeout=30000)
