@@ -1,6 +1,10 @@
 # nonebot_plugin_genshin_uid
 原神uid信息查询
 
+
+改版升级到另一个仓库：https://github.com/WhyPilotXia/nonebot-plugin-gspanel-lite
+
+
 正常情况下：
 用户命令：/uid{uid}
 
