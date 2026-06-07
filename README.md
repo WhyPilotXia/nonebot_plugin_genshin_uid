@@ -3,6 +3,9 @@
 
 正常情况下：
 用户命令：/uid{uid}
+
+
+机器人回复表情
 机器人回复图片结果
 
 
@@ -15,7 +18,7 @@
 
 <img width="1149" height="589" alt="image" src="https://github.com/user-attachments/assets/96e6eca3-b257-451e-82c5-4f7c56d85cd2" />
 
-
+```
 nickname lingu李玥
 level 57
 signature 刚入坑求大佬带带
@@ -36,3 +39,4 @@ avatarInfoList_count 12
 avatar_1 avatarId=10000073 equipList_count=6
 avatar_2 avatarId=10000098 equipList_count=6
 avatar_3 avatarId=10000052 equipList_count=6
+```
